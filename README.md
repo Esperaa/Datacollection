@@ -1,5 +1,5 @@
 
-### Investigation 1
+### Investigation Data
 
 ![DATA1](INV1.png)
 
